@@ -1,4 +1,4 @@
-# pokemon-game
+# pokemon game vue
 
 ## Project setup
 ```
